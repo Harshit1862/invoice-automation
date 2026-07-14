@@ -1,0 +1,9 @@
+po_number,vendor_name,po_amount,status
+PO-1001,Acme Office Supplies,12000.00,open
+PO-1002,Beacon Logistics Inc,8450.50,open
+PO-1003,Crestview Consulting,25000.00,open
+PO-1004,Delta Cloud Services,4300.00,open
+PO-1005,Acme Office Supplies,1560.00,open
+PO-1006,Everline Manufacturing,17800.00,open
+PO-1007,Beacon Logistics Inc,6200.00,closed
+PO-1008,Fenwick Legal Group,9500.00,open
